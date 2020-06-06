@@ -1,0 +1,19 @@
+{
+  "name": "fornite-scraping",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "author": "Vukašin Stepanović <vukasinstepanovic@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^3.0.0",
+    "typescript": "^3.9.5"
+  }
+}
